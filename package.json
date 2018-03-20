@@ -1,0 +1,15 @@
+{
+  "name": "r9k",
+  "version": "1.0.0",
+  "description": "r9b bot for parrot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RealDolos",
+  "license": "MIT",
+  "dependencies": {
+    "leveldown": "^3.0.0",
+    "levelup": "^2.0.2"
+  }
+}
